@@ -1,2 +1,1 @@
-# Cardiovascular-Disease-Prediction-using-Machine-Learning
-Cardiovascular Disease Prediction using Machine Learning
+In this project, we will compare the performance of different machine learning models which predict the presence or absence of cardiovascular disease in a patient by using his factual information, medical examination results and behavioural information. The data for this project can be downloaded from this link  https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
